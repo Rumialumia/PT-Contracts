@@ -1,19 +1,19 @@
 {
-   "displayName" : "Expanded_Contracts",
-   "version" : "1.0",
-   "buildNumber" : 184,
-   "description" : "New contracts for MW5 Mercs",
-   "author" : "Piratetech Team",
-   "authorURL" : "",
-   "defaultLoadOrder" : 0,
-   "gameVersion" : "1.1.0",
-   "manifest" : [
-      "/Game/LevelGenerators/MasterTableOfScenarioGenerators.uasset",
-      "/Game/LevelGenerators/Enums/MasterMissionTypes.uasset",
-      "/Game/LevelGenerators/Missions/Survival/DefaultDataTables/Default_SurvivalMissionData.uasset",
-      "/Game/LevelGenerators/Missions/Survival/_common/SurvivalMissionDataStructure.uasset"
-   ],
-   "steamPublishedFileId" : 0,
-   "steamLastSubmittedBuildNumber" : 0,
-   "steamModVisibility" : "Private"
+	"displayName": "Expanded_Contracts",
+	"version": "1.0",
+	"buildNumber": 196,
+	"description": "New contracts for MW5 Mercs",
+	"author": "Piratetech Team",
+	"authorURL": "",
+	"defaultLoadOrder": 0,
+	"gameVersion": "1.1.0",
+	"manifest": [
+		"/Game/LevelGenerators/MasterTableOfScenarioGenerators.uasset",
+		"/Game/LevelGenerators/Enums/MasterMissionTypes.uasset",
+		"/Game/LevelGenerators/Missions/Survival/DefaultDataTables/Default_SurvivalMissionData.uasset",
+		"/Game/LevelGenerators/Missions/Survival/_common/SurvivalMissionDataStructure.uasset"
+	],
+	"steamPublishedFileId": 0,
+	"steamLastSubmittedBuildNumber": 0,
+	"steamModVisibility": "Private"
 }
