@@ -1,8 +1,8 @@
 {
-	"displayName": "Expanded_Contracts",
+	"displayName": "ExpandedContracts",
 	"version": "1.0",
-	"buildNumber": 201,
-	"description": "New contracts for MW5 Mercs",
+	"buildNumber": 6,
+	"description": "More contract types for MW5",
 	"author": "Piratetech Team",
 	"authorURL": "",
 	"defaultLoadOrder": 0,
